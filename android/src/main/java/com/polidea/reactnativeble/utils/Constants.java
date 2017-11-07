@@ -44,4 +44,6 @@ public interface Constants {
         String WARNING = "Warning";
         String ERROR = "Error";
     }
+
+    int DEFAULT_MTU = 23;
 }
