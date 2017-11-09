@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Polidea/react-native-ble-plx.git"
+    "url": "git+https://github.com/coderbunker/react-native-ble-plx.git"
   },
   "devDependencies": {
     "babel-eslint": "8.0.1",
